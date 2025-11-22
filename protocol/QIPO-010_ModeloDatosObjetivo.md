@@ -45,4 +45,3 @@ Se obtiene un modelo de datos claro, coherente y preparado para soportar limpiez
 ---
 ## C
 previous: QIPO-008
-previous: QIPO-009
