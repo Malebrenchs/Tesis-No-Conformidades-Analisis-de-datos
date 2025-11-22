@@ -68,5 +68,3 @@ Se obtiene un conjunto de indicadores y visualizaciones que permiten comprender 
 ---
 ## C
 previous: QIPO-008
-previous: QIPO-010
-previous: QIPO-011
