@@ -85,4 +85,3 @@ Se obtiene una metodología formalizada para la gestión de no conformidades, in
 ---
 ## C
 previous: QIPO-008
-previous: QIPO-012
