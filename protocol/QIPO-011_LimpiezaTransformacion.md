@@ -47,5 +47,3 @@ Se obtienen dos tablas estructuradas (NC y EVENTOS_NC), en formato tabular y nor
 ---
 ## C
 previous: QIPO-008
-previous: QIPO-009
-previous: QIPO-010
