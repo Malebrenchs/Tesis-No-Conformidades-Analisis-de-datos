@@ -1,4 +1,4 @@
-# QIPO-007: Generación de la Narrativa de Justificación de la Investigación
+# QIPO-007: Generación de la Narrativa de la Investigación
 
 ## Q
 ¿Qué narrativa permite justificar la relevancia de investigar la gestión de no conformidades en obras desde la perspectiva de la supervisión?
