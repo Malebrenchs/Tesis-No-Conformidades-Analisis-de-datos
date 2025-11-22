@@ -76,4 +76,3 @@ Se obtiene una articulación clara y formal entre el procedimiento desarrollado 
 ---
 ## C
 previous: QIPO-008
-previous: QIPO-013
