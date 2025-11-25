@@ -6,7 +6,7 @@ La variable dependiente se fundamenta en el problema identificado y se descompon
 ¿Cuáles son las dimensiones de la variable dependiente definidas para la investigación?
 
 ## I
-Variable dependiente: **Deficiencias en el registro y control de no conformidades**.  
+Variable dependiente: **Deficiencias en la gestión documental de no conformidades**.  
 Definición conceptual derivada del problema general y de las limitaciones detectadas en el registro de no conformidades.  
 Construcción conjunta entre la variable dependiente y sus dimensiones, ya que ambas deben alinearse mutuamente hasta formar un bloque coherente, medible y verificable.
 
