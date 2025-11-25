@@ -13,7 +13,7 @@ Se consolida la información proveniente del diagnóstico técnico y de la revis
 Se establece como núcleo del estudio la deficiencia en el proceso de gestión documental de no conformidades, determinando su impacto sobre la eficiencia y la trazabilidad del proceso de supervisión.
 
 ## O
-**Deficiencias en la gestión documental de las no conformidades en el proceso de supervisión de una obra de construcción en Lima, Perú, 2025.**
+**Deficiencias en la gestión documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú, 2025.**
 
 ## E
 none
