@@ -20,7 +20,7 @@ Las dimensiones definidas para la variable dependiente son las siguientes:
 
 ---
 
-### **1. Estructuración formal de la información documentada**  
+### **1. Estructuración formal de la información documentada**  (Baja estructuración del registro)
 Evalúa si la información sobre no conformidades posee organización tabular, coherencia en sus encabezados y estandarización por registro.  
 
 **Indicador:** *IEID – Índice de Estructuración de la Información Documentada*  
@@ -32,7 +32,7 @@ Evalúa si la información sobre no conformidades posee organización tabular, c
 
 ---
 
-### **2. Trazabilidad operativa del ciclo de vida de la no conformidad**  
+### **2. Trazabilidad operativa del ciclo de vida de la no conformidad**  (Trazabilidad incompleta)
 Evalúa si el registro permite seguir la secuencia completa de eventos desde la emisión hasta el cierre.  
 
 **Indicador:** *ITC-NC – Índice de Trazabilidad del Ciclo de la No Conformidad*  
@@ -44,7 +44,7 @@ Evalúa si el registro permite seguir la secuencia completa de eventos desde la 
 
 ---
 
-### **3. Capacidad analítica del registro para generar indicadores de control**  
+### **3. Capacidad analítica del registro para generar indicadores de control**  (Capacidad analítica insuficiente)
 Evalúa si el formato resultante puede ser usado directamente para análisis de datos sin requerir reprocesamiento manual.  
 
 **Indicador:** *ICAR – Índice de Capacidad Analítica del Registro*  
