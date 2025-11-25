@@ -16,7 +16,7 @@ Dimensiones de variable dependiente (La generación de la variable dependiente y
 - En este caso particular en el que se transformará un archivo, empleando una metodología específica para convertirlo en otro con un formato diferente, es ideal ver cuales son los inconvenientes que presenta el 1er archivo y cómo el 2do archivo supera estos inconvenientes. En función de esas diferencias se debe plantear las dimensiones.
 
 ## O
-**Deficiencias en el registro y control de no conformidades**
+**Deficiencias en la gestión documental de no conformidades**
 
 ## E
 none
