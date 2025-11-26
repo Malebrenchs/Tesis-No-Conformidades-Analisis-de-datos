@@ -35,7 +35,7 @@ El objetivo debe ser **medible, verificable y directamente operacionalizable** m
 
 ## O
 **Objetivo General:**  
-**Evaluar el impacto de una metodología basada en Data Management en la mejora de la gestión documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025.**
+**Evaluar el impacto de una metodología basada en Data Management en la gestión documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025.**
 
 ## E
 ---
