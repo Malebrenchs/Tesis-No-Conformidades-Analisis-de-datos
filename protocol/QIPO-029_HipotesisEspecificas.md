@@ -45,7 +45,7 @@ Se establecen las **Hipótesis Específicas**:
 
 ### **HE1 — Dimensión 1: Estructura Documental (Bloom: Identificar)**  
 **H1:**  
-**La metodología basada en Data Management permite identificar con mayor claridad las deficiencias presentes en la estructura documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025.**  
+**La metodología basada en Data Management permite identificar on mayor claridad las deficiencias presentes en la estructura documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025.**  
 *Contraste:* Escala Likert de estructura documental (pre–post).
 
 ---
