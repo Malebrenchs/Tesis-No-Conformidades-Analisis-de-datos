@@ -49,7 +49,7 @@ Se definen los **Objetivos Específicos** de la investigación:
 ---
 
 ### **OE2 — Dimensión 2: Consistencia del flujo documental (Bloom: Aplicar)**  
-**Aplicar una metodología basada en Data Management para reorganizar la información de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025.**
+**Aplicar una metodología basada en Data Management para reorganizar la información de las no conformidades para asegurar la consistencia del flujo documental en el proceso de supervisión de obras de construcción en Perú durante el año 2025.**
 
 ---
 
