@@ -28,7 +28,7 @@ El título debe reflejar la relación causal entre VI y VD, y mantener consisten
 
 ## O
 **Título del trabajo de investigación:**  
-**Evaluación del impacto de una metodología basada en Data Management en la mejora de la gestión documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025.**
+**Evaluación del impacto de una metodología basada en Data Management en la gestión documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025.**
 
 ## E
 ---
