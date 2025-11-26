@@ -68,4 +68,4 @@ Se establecen las **Hipótesis Específicas**:
 ---
 
 ## C
-previous: QIPO-028
+previous: QIPO-025
