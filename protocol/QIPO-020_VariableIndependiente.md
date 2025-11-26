@@ -13,7 +13,7 @@ Se identifica una variable independiente capaz de influir directamente en la mej
 La variable seleccionada se centra en el uso de una metodología de gestión y procesamiento de datos que permita reestructurar, limpiar, estandarizar y optimizar la información de las no conformidades.
 
 ## O
-**Variable independiente:** Metodología basada en Data Management.  
+**Variable independiente:** Data Management.  
 La metodología se concibe como el conjunto de procesos técnicos, estructurales y procedimentales orientados a transformar datos desordenados en información utilizable.
 
 ## E
