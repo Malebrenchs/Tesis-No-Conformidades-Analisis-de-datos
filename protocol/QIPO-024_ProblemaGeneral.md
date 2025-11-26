@@ -34,7 +34,7 @@ Se asegura que el problema general esté alineado con las normativas internacion
 
 ## O
 **Problema General:**  
-**¿Cómo una metodología basada en Data Management mejora la gestión documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025?**
+**¿Qué efectos tiene una metodología basada en Data Management en la gestión documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025?**
 
 ## E
 ---
