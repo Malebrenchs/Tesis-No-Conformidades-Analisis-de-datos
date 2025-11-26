@@ -48,7 +48,7 @@ Se establecen los **Problemas Específicos** de la investigación:
 **¿Cuáles son las deficiencias presentes en la estructura documental de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025?**
 
 ### **PE2 — (Bloom: aplicar / organizar)**  
-**¿Cómo puede aplicarse una metodología basada en Data Management para reorganizar la información de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025?**
+**¿Cómo puede aplicarse una metodología basada en Data Management para reorganizar la información de las no conformidades con el fin de asegurar la consistencia del flujo documental en el proceso de supervisión de obras de construcción en Perú durante el año 2025?**
 
 ### **PE3 — (Bloom: analizar / evaluar)**  
 **¿Qué impacto tiene la aplicación de una metodología basada en Data Management en la capacidad analítica del registro de las no conformidades en el proceso de supervisión de obras de construcción en Perú durante el año 2025?**
